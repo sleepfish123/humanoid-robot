@@ -1,0 +1,7 @@
+<launch>
+
+  <group ns="control">
+    <node pkg="small_ju_control" name="small_ju_control_node" type="control" output="screen"/>
+  </group>
+
+</launch>
